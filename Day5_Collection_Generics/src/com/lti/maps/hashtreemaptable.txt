@@ -1,0 +1,19 @@
+HashMap                    HashTable            TreeMap 
+ 
+Unidentified Order       Descending Order        Ascending Order 
+
+UnSynchronized            Synchronized           UnSynchronized    
+
+It allows null          It didn’tallow null       The values can be null.
+for both key              for both key and value.    But the key should be unique
+and value.It is         You will getNullPointer
+unsynchronized.
+So come up with better
+ performance      
+
+                          Exception
+
+                      if you add null value.
+
+                        It is synchronized
+  
